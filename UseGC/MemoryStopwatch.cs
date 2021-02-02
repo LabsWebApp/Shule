@@ -1,8 +1,4 @@
-﻿/*
- * Библиотека, работающая с GC
- */
-//02.02.2021
-using System;
+﻿using System;
 
 namespace UseGC
 {
